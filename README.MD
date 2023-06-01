@@ -10,5 +10,5 @@ graph TD:
 ``` 
 
 # Running program
-To run program ensure one has ** python tkinter ** installed and if not run command:
-** pip install tkinter ** to do so
+To run program ensure one has **python tkinter** installed and if not run command:
+**pip install tkinter** to do so
